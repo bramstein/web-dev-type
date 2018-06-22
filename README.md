@@ -9,7 +9,7 @@ Experimental web developer tools to show how flexible CSS properties interoperat
 
 > “Typesetting decisions for the web apply in many contexts [... and] font metrics data can help guide good typographic decisions.” — [Tim Brown, Universal Typography demo](http://universaltypography.com/demo/)
 
-![Universal Typography](https://user-images.githubusercontent.com/114871/41773208-9059347a-761b-11e8-9909-ad2a23a57b9e.png)
+![Universal Typography](https://user-images.githubusercontent.com/114871/41774051-6c103bba-761e-11e8-93a4-4bb325ad1e5e.png)
 
 ## Find us on Twitter:
 
